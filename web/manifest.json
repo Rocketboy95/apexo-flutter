@@ -1,7 +1,7 @@
 {
     "name": "apexo",
     "short_name": "apexo",
-    "start_url": "https://web.apexo.app",
+    "start_url": "http://167.99.62.121",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#254988",
